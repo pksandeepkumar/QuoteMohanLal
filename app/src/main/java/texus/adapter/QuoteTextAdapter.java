@@ -1,6 +1,7 @@
 package texus.adapter;
 
 import android.content.Context;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +15,7 @@ import com.texus.mohanlalquotes.R;
 
 import java.util.ArrayList;
 
+import texus.datamodel.ColorData;
 import texus.datamodel.QuoteText;
 
 /**
@@ -35,6 +37,7 @@ public class QuoteTextAdapter extends RecyclerView.Adapter<QuoteTextAdapter.View
         public TextView     tvAUthorName;
         public ImageButton  imShare;
         public TextView     tvQuote;
+        public CardView     crdMain;
 
         public ViewHolder(View v) {
             super(v);
@@ -43,6 +46,7 @@ public class QuoteTextAdapter extends RecyclerView.Adapter<QuoteTextAdapter.View
             tvAUthorName    = (TextView)    v.findViewById(R.id.tvAUthorName);
             imShare         = (ImageButton) v.findViewById(R.id.imShare);
             tvQuote         = (TextView)    v.findViewById(R.id.tvQuote);
+            crdMain         = (CardView)    v.findViewById(R.id.crdMain);
         }
     }
 
@@ -75,7 +79,13 @@ public class QuoteTextAdapter extends RecyclerView.Adapter<QuoteTextAdapter.View
         // - replace the contents of the view with that element
         final QuoteText quoteText = mDataset.get(position);
         holder.tvAUthorName.setText( "" + quoteText.author );
-        holder.tvQuote.setText( "" + quoteText.Quote );
+        holder.tvQuote.setText("" + quoteText.Quote);
+
+//        holder.crdMain.setBackgroundColor(ColorData.getAColor());
+        holder.crdMain.setCardBackgroundColor(ColorData.getAColor());
+
+
+
     }
 
     // Return the size of your dataset (invoked by the layout manager)

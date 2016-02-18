@@ -1,6 +1,7 @@
 package com.texus.mohanlalquotes;
 
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import texus.task.LoadQuoteTextTask;
@@ -10,13 +11,20 @@ import texus.task.LoadQuoteTextTask;
  */
 public class QuotePageActivity extends BaseAppCompactActivity {
 
-    RecyclerView recyclerView;
+    private RecyclerView                recyclerView;
+    private RecyclerView.LayoutManager  mLayoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quote_page);
+
         recyclerView = (RecyclerView) this.findViewById(R.id.rcList);
+        recyclerView.setHasFixedSize(false);
+        mLayoutManager = new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(mLayoutManager);
+
+
         LoadQuoteTextTask task = new LoadQuoteTextTask(this, recyclerView);
         task.execute();
     }

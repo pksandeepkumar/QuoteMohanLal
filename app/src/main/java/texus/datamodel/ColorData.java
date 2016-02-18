@@ -28,7 +28,15 @@ public class ColorData {
                                         COLOR_INDIGO, COLOR_DEEP_PURPLE, COLOR_LIME};
 
     public static int getAColor(){
-        Random random = new Random(colors.length);
-        return  colors[random.nextInt()];
+        int min = 0;
+        int max = colors.length;
+        //This will generate 0 inclusive to max exclusive
+        Random r = new Random();
+        try {
+            return  colors[r.nextInt(max)];
+        } catch (Exception e) { e.printStackTrace();}
+        return COLOR_INDIGO;
+
+
     }
 }

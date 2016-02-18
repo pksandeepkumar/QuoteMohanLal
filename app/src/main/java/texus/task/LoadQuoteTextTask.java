@@ -14,12 +14,14 @@ import texus.datamodel.QuoteText;
 import texus.db.Databases;
 import texus.network.NetworkService;
 import texus.preferances.SavedPreferance;
+import texus.utility.LOG;
 import texus.utility.Utility;
 
 public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 					implements AppConstance {
     Context context;
     RecyclerView recyclerView;
+
     QuoteTextAdapter adapter;
     int version = 0;
 
@@ -42,14 +44,20 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
             if(version == 0) {
                 responseData = Utility.readFromAssets("quote1.xml",context);
                 version = 1;
-                parseAndInsertdata(responseData);
+                parseAndInsertdata(responseData,true);
             } else {
+				//Means DB is already loaded with some data so first
+				//display them
+				publishProgress();
+
+				//Then after try to featch new availabele quotes
 				responseIndex = NetworkService.Get(INDEX_URL_QUOTE);
 				ArrayList<QuoteIndex> indexes = QuoteIndex.parse(responseData);
+				LOG.log("Task","Index cound:" + indexes.size());
 				for(QuoteIndex index: indexes) {
 					if(index.version <= version) continue;
 					responseData = NetworkService.Get(BASE_URL + index.filename);
-                    parseAndInsertdata(responseData);
+                    parseAndInsertdata(responseData, false);
 				}
                 
             }
@@ -62,26 +70,29 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 	@Override
 	protected void onProgressUpdate(Void... values) {
 		super.onProgressUpdate(values);
+
 		//Populate list
 		Databases db = new Databases(context);
 		ArrayList<QuoteText> quoteTexts = QuoteText.getAllObject(db);
-        recyclerView.setHasFixedSize(false);
-        // specify an adapter (see also next example)
+
+
         adapter = new QuoteTextAdapter(context, quoteTexts);
         recyclerView.setAdapter(adapter);
 		db.close();
 	}
 
-	private void parseAndInsertdata(String responseData) {
+	private void parseAndInsertdata(String responseData, boolean needToPublish) {
 		Databases db = new Databases(context);
 		ArrayList<QuoteText>  quoteTexts = QuoteText.parse(responseData);
 		for( QuoteText quoteText: quoteTexts ) {
 			QuoteText.inseartOrUpdateOperation(db, quoteText);
 		}
 		db.close();
-		//Version sett by Mac
+
+
         SavedPreferance.setVersionQuote(context, version);
-        publishProgress();
+
+		if(needToPublish) publishProgress();
 
 	}
 

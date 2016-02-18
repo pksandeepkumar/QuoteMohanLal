@@ -14,7 +14,9 @@
  */
 package texus.datamodel;
 
+import android.content.Context;
 import android.database.Cursor;
+import android.database.DatabaseUtils;
 import android.database.sqlite.SQLiteDatabase;
 
 import java.util.ArrayList;
@@ -36,7 +38,7 @@ public class QuoteText extends BaseDataModel{
 	
 	
 	public static final String ID = "id";
-	public static final String IMAGE_URL = "Quote";
+	public static final String QUOTE = "Quote";
 	public static final String AUTHOR = "Author";
 	public static final String WIKILINK = "Wikilink";
 
@@ -50,7 +52,7 @@ public class QuoteText extends BaseDataModel{
 	public static final String CREATE_TABE_QUERY = "CREATE TABLE  " + TABLE_NAME 
 			+ " ( " + "_id" + " INTEGER  PRIMARY KEY AUTOINCREMENT, " 
 			+ ID + " INTEGER , "
-			+ IMAGE_URL + " TEXT, "
+			+ QUOTE + " TEXT, "
 			+ AUTHOR + " TEXT, "
 			+ WIKILINK + " TEXT);";
 
@@ -86,7 +88,7 @@ public class QuoteText extends BaseDataModel{
 		if( c != null) {
 			instance = new QuoteText();
 			instance.id = c.getInt(c.getColumnIndex(ID));
-			instance.Quote = c.getString(c.getColumnIndex(IMAGE_URL));
+			instance.Quote = c.getString(c.getColumnIndex(QUOTE));
 			instance.author = c.getString(c.getColumnIndex(AUTHOR));
 			instance.WikiLink = c.getString(c.getColumnIndex(WIKILINK));
 		} else {
@@ -143,27 +145,58 @@ public class QuoteText extends BaseDataModel{
 	}
 
 
+	public static void insertQuote(String quote, String film, Context context){
 
+	}
 
-	public static boolean inseartOperation(Databases db, QuoteText instance) {
-		SQLiteDatabase sql = db.getWritableDatabase();
-		String query = "";
-		query = "insert into " + TABLE_NAME + " ("
-				+ ID + ","
-				+ IMAGE_URL + ","
-				+ AUTHOR + ","
-				+ WIKILINK + " ) values ( "
-				+ "" + instance.id + ","
-				+ "'" + instance.Quote.replaceAll("'","\'") + "',"
-				+ "'" + instance.author + "',"
-				+ "'" + instance.WikiLink + "');";
+	public static boolean inseartOperation(Databases dbMain, QuoteText instance) {
 
-		LOG.log("Query:", "Query:" + query);
-        try {
-            sql.execSQL(query);
-        } catch (Exception e) { e.printStackTrace();}
+		SQLiteDatabase db = dbMain.getWritableDatabase();
+		DatabaseUtils.InsertHelper ih = new DatabaseUtils.InsertHelper(db, TABLE_NAME);
+		final int indexID = ih.getColumnIndex(ID);
+		final int indexQuote = ih.getColumnIndex(QUOTE);
+		final int indexAuthor = ih.getColumnIndex(AUTHOR);
+		final int indexWikiLink = ih.getColumnIndex(WIKILINK);
+
+		try{
+			db.setLockingEnabled(false);
+			ih.prepareForInsert();
+			ih.bind(indexID, instance.id);
+			ih.bind(indexQuote, instance.Quote);
+			ih.bind(indexAuthor, instance.author);
+			ih.bind(indexWikiLink, instance.WikiLink);
+
+			ih.execute();
+		}catch(Exception e){e.printStackTrace();}
+		finally{
+			if(ih!=null)
+				ih.close();
+			db.setLockingEnabled(true);
+		}
 		return true;
 	}
+
+
+
+//	public static boolean inseartOperation(Databases db, QuoteText instance) {
+//		SQLiteDatabase sql = db.getWritableDatabase();
+//		String query = "";
+//		query = "insert into " + TABLE_NAME + " ("
+//				+ ID + ","
+//				+ QUOTE + ","
+//				+ AUTHOR + ","
+//				+ WIKILINK + " ) values ( "
+//				+ "" + instance.id + ","
+//				+ "'" + instance.Quote.replaceAll("'","\'") + "',"
+//				+ "'" + instance.author + "',"
+//				+ "'" + instance.WikiLink + "');";
+//
+//		LOG.log("Query:", "Query:" + query);
+//        try {
+//            sql.execSQL(query);
+//        } catch (Exception e) { e.printStackTrace();}
+//		return true;
+//	}
 
 	public static boolean updateOperation(Databases db, QuoteText instance) {
 
@@ -172,7 +205,7 @@ public class QuoteText extends BaseDataModel{
 		String query = "";
 		query = "update " + TABLE_NAME + " SET " 
 				+ ID + " = " + instance.id + " , "
-				+ IMAGE_URL + " = '" + instance.Quote + "',"
+				+ QUOTE + " = '" + instance.Quote + "',"
 				+ AUTHOR + " = '" + instance.author + "',"
 				+ WIKILINK + " = '" + instance.WikiLink + "' WHERE " + ID + " = " + instance.id + "";
 		LOG.log("Query:", "Query:" + query);

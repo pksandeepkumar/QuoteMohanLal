@@ -5,6 +5,7 @@ xmlns:card_view="http://schemas.android.com/apk/res-auto"
 xmlns:ripple="http://schemas.android.com/apk/res-auto"
 style="@style/card_main_activity"
 android:layout_width="match_parent"
+    android:id="@+id/crdMain"
 android:layout_height="wrap_content"
 card_view:cardBackgroundColor="#FFFFFF"
 card_view:cardCornerRadius="@dimen/list_card_radious"
@@ -17,7 +18,7 @@ card_view:cardElevation="@dimen/list_card_elevation">
     android:id="@+id/rlTopLayout"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#80000000">
+    android:background="#30000000">
 
     <com.andexert.library.RippleView
         android:id="@+id/rplAuthor"
@@ -68,11 +69,15 @@ card_view:cardElevation="@dimen/list_card_elevation">
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <TextView
+
+            android:layout_margin="10dp"
             android:id="@+id/tvQuote"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:textColor="#FFFFFF"/>
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
 
     </RelativeLayout>
 
