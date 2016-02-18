@@ -79,6 +79,7 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 			QuoteText.inseartOrUpdateOperation(db, quoteText);
 		}
 		db.close();
+		//Version sett by Mac
         SavedPreferance.setVersionQuote(context, version);
         publishProgress();
 
