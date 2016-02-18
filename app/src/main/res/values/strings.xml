@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MohanLal Quotes</string>
+
+    <string name="menu_quote">Quotes</string>
+    <string name="menu_quotes_image">Quote Images</string>
+    <string name="menu_film">Films</string>
+    <string name="menu_fan">Fan</string>
+</resources>

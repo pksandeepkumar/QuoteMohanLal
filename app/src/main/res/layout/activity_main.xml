@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:ripple="http://schemas.android.com/apk/res-auto"
+
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorPrimary"
+    tools:context="com.texus.mohanlalquotes.MainActivity"
+    >
+
+
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/text_size_app_name"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        />
+
+    <LinearLayout
+        android:id="@+id/llAppInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvAppName"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        >
+
+        <com.andexert.library.RippleView
+            style="@style/ripple_app_info_main_activity"
+            ripple:rv_type="rectangle"
+            ripple:rv_centered="false">
+        <TextView
+            android:text=" Share App "
+            android:onClick="doShareApp"
+            style="@style/tv_main_app_info"
+            />
+        </com.andexert.library.RippleView>
+
+        <TextView
+            style="@style/tv_main_seperator"
+            />
+
+        <com.andexert.library.RippleView
+            style="@style/ripple_app_info_main_activity"
+            ripple:rv_type="rectangle"
+            ripple:rv_centered="false">
+
+        <TextView
+            android:text=" Rate App "
+            android:onClick="doRateApp"
+            style="@style/tv_main_app_info"
+            />
+        </com.andexert.library.RippleView>
+        <TextView
+            style="@style/tv_main_seperator"
+            />
+
+        <com.andexert.library.RippleView
+            style="@style/ripple_app_info_main_activity"
+            ripple:rv_type="rectangle"
+            ripple:rv_centered="false">
+
+        <TextView
+            android:text=" Feedback "
+            android:onClick="doFeedback"
+            style="@style/tv_main_app_info"
+            />
+        </com.andexert.library.RippleView>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_above="@+id/tvAppName"
+        android:id="@+id/imImage"
+        android:scaleType="fitXY"
+        android:layout_centerHorizontal="true"
+        android:layout_width="@dimen/image_size"
+        android:layout_height="@dimen/image_size"
+        />
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_alignParentBottom="true"
+    android:gravity="center_horizontal"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <android.support.v7.widget.CardView
+            android:layout_weight="1"
+            style="@style/card_main_activity"
+            card_view:cardBackgroundColor="#168acf"
+            card_view:cardCornerRadius="2dp"
+            card_view:cardElevation="6dp"
+            >
+            <com.andexert.library.RippleView
+                android:id="@+id/rippleQuotes"
+                style="@style/ripple_main_activity"
+                android:onClick="showQuotePage"
+                android:clickable="true"
+                ripple:rv_type="rectangle"
+                ripple:rv_centered="false">
+
+                <LinearLayout
+                    style="@style/layout_button_main_activity"
+                    >
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_quote"/>
+
+                <Button
+                    style="@style/button_main_activity"
+                    android:text="@string/menu_quote" />
+                </LinearLayout>
+
+            </com.andexert.library.RippleView>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_weight="1"
+            style="@style/card_main_activity"
+            card_view:cardBackgroundColor="#13bfaf"
+            card_view:cardCornerRadius="2dp"
+            card_view:cardElevation="6dp"
+            >
+            <com.andexert.library.RippleView
+                style="@style/ripple_main_activity"
+                ripple:rv_type="rectangle"
+                ripple:rv_centered="false"
+                android:onClick="showQuoteImagesPage"
+                android:clickable="true">
+
+                <LinearLayout
+                    style="@style/layout_button_main_activity"
+                    >
+
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_quote_image"
+                        />
+
+                    <Button
+                        style="@style/button_main_activity"
+                        android:text="@string/menu_quotes_image" />
+                </LinearLayout>
+
+
+
+            </com.andexert.library.RippleView>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+    <android.support.v7.widget.CardView
+        android:layout_weight="1"
+        style="@style/card_main_activity"
+        card_view:cardBackgroundColor="#f43073"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="6dp"
+        >
+        <com.andexert.library.RippleView
+            style="@style/ripple_main_activity"
+            ripple:rv_type="rectangle"
+            ripple:rv_centered="false"
+            android:onClick="showFilmsPage"
+            android:clickable="true">
+
+            <LinearLayout
+                style="@style/layout_button_main_activity"
+                >
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/ic_films"/>
+
+            <Button
+                style="@style/button_main_activity"
+                android:text="@string/menu_film" />
+            </LinearLayout>
+
+        </com.andexert.library.RippleView>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_weight="1"
+        style="@style/card_main_activity"
+        card_view:cardBackgroundColor="#779cae"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="6dp"
+        >
+        <com.andexert.library.RippleView
+            style="@style/ripple_main_activity"
+            ripple:rv_type="rectangle"
+            ripple:rv_centered="false"
+            android:onClick="showFanPage"
+            android:clickable="true">
+            <LinearLayout
+                style="@style/layout_button_main_activity">
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/ic_fan"/>
+
+            <Button
+                style="@style/button_main_activity"
+                android:text="@string/menu_fan" />
+            </LinearLayout>
+
+        </com.andexert.library.RippleView>
+
+    </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</LinearLayout>
+
+</RelativeLayout>

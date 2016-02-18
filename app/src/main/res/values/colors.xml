@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f07c65</color>
+    <color name="colorPrimaryDark">#FFCA5D48</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="brown">#795548</color>
+    <color name="blue_ray">#607D8B</color>
+    <color name="teal">#009688</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="lime">#827717</color>
+
+
+</resources>

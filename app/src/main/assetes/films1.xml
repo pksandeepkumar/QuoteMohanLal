@@ -1,0 +1,315 @@
+<Films>
+<film  id="1" Year="1980" Film="Manjil Virinja Pookkal" Director="Fazil" Role="Narendran" WikiLink="https://en.wikipedia.org/wiki/Manjil_Virinja_Pookkal" />
+    <film  id="2" Year="1981" Film="Sanchari" Director="Boban Kunchacko" Role="Dr. Sekhar" WikiLink="https://en.wikipedia.org/wiki/Sanchari" />
+    <film  id="3" Year="1981" Film="Thakilu Kottampuram" Director="Balu Kiriyath" Role="Advocate Paul" WikiLink="https://en.wikipedia.org/wiki/Thakilu_Kottampuram" />
+    <film  id="4" Year="1981" Film="Dhanya" Director="Fazil" Role="Mohanlal" WikiLink="https://en.wikipedia.org/wiki/Dhanya_(film)" />
+    <film  id="5" Year="1981" Film="Dhruvasangamam" Director="J. Sasikumar" Role="Sankarankutty" WikiLink="https://en.wikipedia.org/wiki/Dhruvasangamam" />
+    <film  id="6" Year="1981" Film="Attimari" Director="J. Sasikumar" Role="Shan" WikiLink="https://en.wikipedia.org/wiki/Attimari_(film)" />
+    <film  id="7" Year="1981" Film="Oothikachiya Ponnu" Director="P. K. Joseph" Role="Nandan" WikiLink="https://en.wikipedia.org/wiki/Oothikachiya_Ponnu" />
+    <film  id="8" Year="1981" Film="Thenum Vayambum" Director="Ashok Kumar" Role="Varma" WikiLink="https://en.wikipedia.org/wiki/Thenum_Vayambum" />
+    <film  id="9" Year="1981" Film="Ahimsa" Director="I. V. Sasi" Role="Mohan" WikiLink="https://en.wikipedia.org/wiki/Ahimsa_(Malayalam_film)" />
+    <film  id="10" Year="1982" Film="Madrasile Mon" Director="J. Sasikumar" Role="Mohanlal" WikiLink="https://en.wikipedia.org/wiki/Madrasile_Mon" />
+    <film  id="11" Year="1982" Film="Football" Director="Radhakrishnan" Role="Balakrishnan" WikiLink="https://en.wikipedia.org/wiki/Football_(film)" />
+    <film  id="12" Year="1982" Film="Kelkkaatha Sabdham" Director="Balachandra Menon" Role="Babu" WikiLink="https://en.wikipedia.org/wiki/Kelkkaatha_Sabdham" />
+    <film  id="13" Year="1982" Film="Padayottam" Director="Jijo" Role="Kannan" WikiLink="https://en.wikipedia.org/wiki/Padayottam" />
+    <film  id="14" Year="1982" Film="Enikkum Oru Divasam" Director="Sreekumaran Thampi" Role="Babu" WikiLink="https://en.wikipedia.org/wiki/Enikkum_Oru_Divasam" />
+    <film  id="15" Year="1982" Film="Aakrosham" Director="A. B. Raj" Role="Mohanachandran" WikiLink="https://en.wikipedia.org/wiki/Enthino_Pookunna_Pookkal" />
+    <film  id="16" Year="1982" Film="Enthino Pookunna Pookkal" Director="Gopinath Babu" Role="Surendran" WikiLink="https://en.wikipedia.org/wiki/Enthino_Pookunna_Pookkal" />
+    <film  id="17" Year="1982" Film="Sindoora Sandhyakku Mounam" Director="I. V. Sasi" Role="Kishore" WikiLink="https://en.wikipedia.org/wiki/Sindoora_Sandhyakku_Mounam" />
+    <film  id="18" Year="1982" Film="Ente Mohangal Poovaninju" Director="Bhadran" Role="Jayan" WikiLink="https://en.wikipedia.org/wiki/Ente_Mohangal_Poovaninju" />
+    <film  id="19" Year="1982" Film="Njan Onnu Parayatte" Director="K. A. Venugopal" Role="Shekharankutty" WikiLink="https://en.wikipedia.org/wiki/Njan_Onnu_Parayatte" />
+    <film  id="20" Year="1982" Film="Aa Divasam" Director="M. Mani" Role="" WikiLink="https://en.wikipedia.org/wiki/Aa_Divasam" />
+    <film  id="21" Year="1982" Film="Kaliyamardanam" Director="J. Williams" Role="Johny" WikiLink="https://en.wikipedia.org/wiki/Kaliyamardanam" />
+    <film  id="22" Year="1982" Film="Sree Ayyappanum Vavarum" Director="NP Suresh" Role="Kadutha" WikiLink="https://en.wikipedia.org/wiki/Sree_Ayyappanum_Vavarum" />
+    <film  id="23" Year="1982" Film="Kurukkante Kalyanam" Director="Sathyan Anthikad" Role="Sainaba's husband" WikiLink="https://en.wikipedia.org/wiki/Kurukkante_Kalyanam" />
+    <film  id="24" Year="1983" Film="Visa" Director="Balu Kiriyath" Role="Sunny" WikiLink="https://en.wikipedia.org/wiki/Visa_(film)" />
+    <film  id="25" Year="1983" Film="Hello Madras Girl" Director="J. Williams" Role="Lal" WikiLink="https://en.wikipedia.org/wiki/Hello_Madras_Girl" />
+    <film  id="26" Year="1983" Film="Ente Katha" Director="P. K. Joseph" Role="Ramesh" WikiLink="https://en.wikipedia.org/wiki/Ente_Katha" />
+    <film  id="27" Year="1983" Film="Bhookambam" Director="Joshiy" Role="Raghu" WikiLink="https://en.wikipedia.org/wiki/Bhookambam" />
+    <film  id="28" Year="1983" Film="Guru Dakshina" Director="Baby" Role="Minister Prabhakaran" WikiLink="https://en.wikipedia.org/wiki/Guru_Dakshina_(1983_film)" />
+    <film  id="29" Year="1983" Film="Naseema" Director="A. Sheriff" Role="Saithali" WikiLink="https://en.wikipedia.org/wiki/Naseema" />
+    <film  id="30" Year="1983" Film="Kolakkomban" Director="J. Sasikumar" Role="Gopi" WikiLink="https://en.wikipedia.org/wiki/Kolakkomban" />
+    <film  id="31" Year="1983" Film="Kuyiline Thedi" Director="M. Mani" Role="Thampuran Kutty" WikiLink="https://en.wikipedia.org/wiki/Kuyiline_Thedi" />
+    <film  id="32" Year="1983" Film="Himavahini" Director="P. G. Vishwambaran" Role="Pappy" WikiLink="https://en.wikipedia.org/wiki/Himavahini" />
+    <film  id="33" Year="1983" Film="Arabikkadal" Director="J. Sasikumar" Role="" WikiLink="https://en.wikipedia.org/wiki/Arabikkadal" />
+    <film  id="34" Year="1983" Film="Sesham Kazhchayil" Director="Balachandra Menon" Role="Police Inspector" WikiLink="https://en.wikipedia.org/wiki/Sesham_Kazhchayil" />
+    <film  id="35" Year="1983" Film="Marakkillorikkalum" Director="Fazil" Role="Murali" WikiLink="https://en.wikipedia.org/wiki/Marakkillorikkalum" />
+    <film  id="36" Year="1983" Film="Sandhyakku Virinja Poovu" Director="P. G. Vishwambaran" Role="Ramu" WikiLink="https://en.wikipedia.org/wiki/Sandhyakku_Virinja_Poovu" />
+    <film  id="37" Year="1983" Film="Thaavalam" Director="Thambi Kannanthanam" Role="Rajappan" WikiLink="https://en.wikipedia.org/wiki/Thaavalam" />
+    <film  id="38" Year="1983" Film="Aadhipathyam" Director="Sreekumaran Thampi" Role="Mohan" WikiLink="https://en.wikipedia.org/wiki/Aadhipathyam" />
+    <film  id="39" Year="1983" Film="Chakravalam Chuvannappol" Director="J. Sasikumar" Role="Surendran" WikiLink="https://en.wikipedia.org/wiki/Chakravalam_Chuvannappol" />
+    <film  id="40" Year="1983" Film="Engane Nee Marakkum" Director="M. Mani" Role="Shambu" WikiLink="https://en.wikipedia.org/wiki/Engane_Nee_Marakkum" />
+    <film  id="41" Year="1983" Film="Iniyengilum" Director="I. V. Sasi" Role="Ravi" WikiLink="https://en.wikipedia.org/wiki/Iniyengilum" />
+    <film  id="42" Year="1983" Film="Attakkalasam" Director="J. Sasikumar" Role="Santhosh Babu" WikiLink="https://en.wikipedia.org/wiki/Attakkalasam" />
+    <film  id="43" Year="1983" Film="Kattathe Kilikkoodu" Director="Bharathan" Role="Unni Krishnan" WikiLink="https://en.wikipedia.org/wiki/Kattathe_Kilikkoodu" />
+    <film  id="44" Year="1983" Film="Asthram" Director="P. N. Menon" Role="Das" WikiLink="https://en.wikipedia.org/wiki/Asthram" />
+    <film  id="45" Year="1983" Film="Changatham" Director="Bhadran" Role="S. T. Daniel" WikiLink="https://en.wikipedia.org/wiki/Changatham" />
+    <film  id="46" Year="1983" Film="Oru Mukham Pala Mukham" Director="P. K. Joseph" Role="Sukumaran Thampi" WikiLink="https://en.wikipedia.org/wiki/Oru_Mukham_Pala_Mukham" />
+    <film  id="47" Year="1983" Film="Nanayam" Director="I. V. Sasi" Role="Babu" WikiLink="https://en.wikipedia.org/wiki/Nanayam" />
+    <film  id="48" Year="1983" Film="Ente Mamattikkuttiyammakku" Director="Fazil" Role="Alex" WikiLink="https://en.wikipedia.org/wiki/Ente_Mamattikkuttiyammakku" />
+    <film  id="49" Year="1983" Film="Pinnilavu" Director="P. G. Vishwambaran" Role="Raghu" WikiLink="https://en.wikipedia.org/wiki/Pinnilavu" />
+    <film  id="50" Year="1984" Film="Akkare" Director="K. N. Sasidharan" Role="Sudhakaran" WikiLink="https://en.wikipedia.org/wiki/Akkare" />
+    <film  id="51" Year="1984" Film="Onnanu Nammal" Director="P. G. Vishwambaran" Role="Nanda Gopal" WikiLink="https://en.wikipedia.org/wiki/Onnanu_Nammal" />
+    <film  id="52" Year="1984" Film="Swanthamevide Bandhamevide" Director="J. Sasikumar" Role="Rajendran" WikiLink="https://en.wikipedia.org/wiki/Swanthamevide_Bandhamevide" />
+    <film  id="53" Year="1984" Film="Vanitha Police" Director="Alleppey Ashraf" Role="Achuthan" WikiLink="https://en.wikipedia.org/wiki/Vanitha_Police" />
+    <film  id="54" Year="1984" Film="Appunni" Director="Sathyan Anthikkad" Role="Menon Mash" WikiLink="https://en.wikipedia.org/wiki/Appunni" />
+    <film  id="55" Year="1984" Film="Athirathram" Director="I. V. Sasi" Role="Prasad" WikiLink="https://en.wikipedia.org/wiki/Athirathram_(film)" />
+    <film  id="56" Year="1984" Film="Unaru" Director="Mani Ratnam" Role="Balan" WikiLink="https://en.wikipedia.org/wiki/Unaru" />
+    <film  id="57" Year="1984" Film="Kaliyil Alpam Karyam" Director="Sathyan Anthikkad" Role="Vinayan" WikiLink="https://en.wikipedia.org/wiki/Kaliyil_Alpam_Karyam" />
+    <film  id="58" Year="1984" Film="Poochakkoru Mookkuthi" Director="Priyadarshan" Role="Gopalakrishnan" WikiLink="https://en.wikipedia.org/wiki/Poochakkoru_Mookkuthi" />
+    <film  id="59" Year="1984" Film="Pavam Poornima" Director="Balu Kiriyath" Role="Annan Thampuran" WikiLink="https://en.wikipedia.org/wiki/Pavam_Poornima" />
+    <film  id="60" Year="1984" Film="Lakshmana Rekha" Director="I. V. Sasi" Role="Sudhakaran Nair" WikiLink="https://en.wikipedia.org/wiki/Lakshmana_Rekha_(film)" />
+    <film  id="61" Year="1984" Film="Aalkkoottathil Thaniye" Director="I. V. Sasi" Role="Anil Kumar" WikiLink="https://en.wikipedia.org/wiki/Aalkkoottathil_Thaniye" />
+    <film  id="62" Year="1984" Film="Vetta" Director="Mohanroop" Role="Balan" WikiLink="https://en.wikipedia.org/wiki/Vetta" />
+    <film  id="63" Year="1984" Film="Ivide Thudangunnu" Director="J. Sasikumar" Role="Krishna Kumar" WikiLink="https://en.wikipedia.org/wiki/Ivide_Thudangunnu" />
+    <film  id="64" Year="1984" Film="Kurishuyudham" Director="Baby" Role="Johny" WikiLink="https://en.wikipedia.org/wiki/Kurishuyudham" />
+    <film  id="65" Year="1984" Film="Manasariyathe" Director="Soman Ambaat" Role="Mammootty" WikiLink="https://en.wikipedia.org/wiki/Manasariyathe" />
+    <film  id="66" Year="1984" Film="Thirakal" Director="K. Vijayan" Role="James George" WikiLink="https://en.wikipedia.org/wiki/Thirakal" />
+    <film  id="67" Year="1984" Film="Kilikkonchal" Director="V. Ashok Kumar" Role="Ratheesh" WikiLink="https://en.wikipedia.org/wiki/Kilikkonchal" />
+    <film  id="68" Year="1984" Film="Itha Innu Muthal" Director="T. S. Suresh Babu" Role="Himself" WikiLink="https://en.wikipedia.org/wiki/Itha_Innu_Muthal" />
+    <film  id="69" Year="1984" Film="Sreekrishna Parunthu" Director="A. Vincent" Role="Kumaran" WikiLink="https://en.wikipedia.org/wiki/Sreekrishna_Parunthu" />
+    <film  id="70" Year="1984" Film="Aduthaduthu" Director="Sathyan Anthikkad" Role="Vishnu Mohan" WikiLink="https://en.wikipedia.org/wiki/Aduthaduthu" />
+    <film  id="71" Year="1984" Film="Ariyaatha Veethikal" Director="K. S. Sethumadhavan" Role="Balan" WikiLink="https://en.wikipedia.org/wiki/Ariyaatha_Veethikal" />
+    <film  id="72" Year="1984" Film="Uyarangalil" Director="I.V. Sasi" Role="P. K. Jayarajan" WikiLink="https://en.wikipedia.org/wiki/Uyarangalil" />
+    <film  id="73" Year="1984" Film="Adiyozhukkukal" Director="I. V. Sasi" Role="Gopi" WikiLink="https://en.wikipedia.org/wiki/Adiyozhukkukal" />
+    <film  id="74" Year="1984" Film="Oru Kochu Swapnam" Director="Vipindas" Role="" WikiLink="https://en.wikipedia.org/wiki/Oru_Kochu_Swapnam" />
+    <film  id="75" Year="1985" Film="Avidathepole Ivideyum" Director="K. S. Sethumadhavan" Role="Sukumaran" WikiLink="https://en.wikipedia.org/wiki/Avidathepole_Ivideyum" />
+    <film  id="76" Year="1985" Film="Nokketha Doorathu Kannum Nattu" Director="Fazil" Role="Sreekumar" WikiLink="https://en.wikipedia.org/wiki/Nokketha_Doorathu_Kannum_Nattu" />
+    <film  id="77" Year="1985" Film="Ormikkaan Omanikkaan" Director="A. B. Raj" Role="Deva Kumar" WikiLink="https://en.wikipedia.org/wiki/Ormikkaan_Omanikkaan" />
+    <film  id="78" Year="1985" Film="Aram + Aram = Kinnaram" Director="Priyadarshan" Role="Narayanan Kutty" WikiLink="https://en.wikipedia.org/wiki/Aram_%2B_Aram_%3D_Kinnaram" />
+    <film  id="79" Year="1985" Film="Nayakan" Director="Balu Kiriyath" Role="Krishnadas" WikiLink="https://en.wikipedia.org/wiki/Nayakan_(1985_film)" />
+    <film  id="80" Year="1985" Film="Njan Piranna Nattil" Director="P. Chandrakumar" Role="InspectorRajasekharan" WikiLink="https://en.wikipedia.org/wiki/Njan_Piranna_Nattil" />
+    <film  id="81" Year="1985" Film="Onnanam Kunnil Oradi Kunnil" Director="Priyadarshan" Role="Nithin" WikiLink="https://en.wikipedia.org/wiki/Onnanam_Kunnil_Oradi_Kunnil" />
+    <film  id="82" Year="1985" Film="Anubandham" Director="I. V. Sasi" Role="Bhaskaran" WikiLink="https://en.wikipedia.org/wiki/Anubandham" />
+    <film  id="83" Year="1985" Film="Mulamoottil Adima" Director="P. K. Joseph" Role="Adimakanne" WikiLink="https://en.wikipedia.org/wiki/Mulamoottil_Adima" />
+    <film  id="84" Year="1985" Film="Vasantha Sena" Director="K. Vijayan" Role="Devan" WikiLink="https://en.wikipedia.org/wiki/Vasantha_Sena" />
+    <film  id="85" Year="1985" Film="Guruji Oru Vakku" Director="Rajan Shankaradi" Role="Sudhakaran Nair" WikiLink="https://en.wikipedia.org/wiki/Guruji_Oru_Vakku" />
+    <film  id="86" Year="1985" Film="Parayanumvayya Parayathirikkanumvayya" Director="Priyadarshan" Role="Current Hamsa" WikiLink="https://en.wikipedia.org/wiki/Parayanumvayya_Parayathirikkanumvayya" />
+    <film  id="87" Year="1985" Film="Angadikkappurathu" Director="I. V. Sasi" Role="Babu" WikiLink="https://en.wikipedia.org/wiki/Angadikkappurathu" />
+    <film  id="88" Year="1985" Film="Koodum Thedi" Director="Paul Babu" Role="Peter" WikiLink="https://en.wikipedia.org/wiki/Koodum_Thedi" />
+    <film  id="89" Year="1985" Film="Jeevante Jeevan" Director="J. Williams" Role="Jayan" WikiLink="https://en.wikipedia.org/wiki/Jeevante_Jeevan" />
+    <film  id="90" Year="1985" Film="Adhyayam Onnu Muthal" Director="Sathyan Anthikkad" Role="Vishnu" WikiLink="https://en.wikipedia.org/wiki/Adhyayam_Onnu_Muthal" />
+    <film  id="91" Year="1985" Film="Azhiyatha Bandhangal" Director="J. Sasikumar" Role="Balakrishnan" WikiLink="https://en.wikipedia.org/wiki/Azhiyatha_Bandhangal" />
+    <film  id="92" Year="1985" Film="Boeing Boeing" Director="Priyadarshan" Role="Shyam" WikiLink="https://en.wikipedia.org/wiki/Boeing_Boeing_(1985_film)" />
+    <film  id="93" Year="1985" Film="Karimbinpoovinakkare" Director="I. V. Sasi" Role="Bhadran" WikiLink="https://en.wikipedia.org/wiki/Karimbinpoovinakkare" />
+    <film  id="94" Year="1985" Film="Uyarum Njan Nadake" Director="P. Chandrakumar" Role="Darappan" WikiLink="https://en.wikipedia.org/wiki/Uyarum_Njan_Nadake" />
+    <film  id="95" Year="1985" Film="Idanilangal" Director="I. V. Sasi" Role="Balan" WikiLink="https://en.wikipedia.org/wiki/Idanilangal" />
+    <film  id="96" Year="1985" Film="Pathamudayam" Director="J. Sasikumar" Role="Jayamohan, Vikraman" WikiLink="https://en.wikipedia.org/wiki/Pathamudayam" />
+    <film  id="97" Year="1985" Film="Rangam" Director="I. V. Sasi" Role="Appunni" WikiLink="https://en.wikipedia.org/wiki/Rangam_(film)" />
+    <film  id="98" Year="1985" Film="Ezhu Muthal Onpathu Vare" Director="J. Sasikumar" Role="Anand" WikiLink="https://en.wikipedia.org/wiki/Ezhu_Muthal_Onpathu_Vare" />
+    <film  id="99" Year="1985" Film="Kandu Kandarinju" Director="Sajan" Role="Krishnanunni" WikiLink="https://en.wikipedia.org/wiki/Kandu_Kandarinju" />
+    <film  id="100" Year="1986" Film="Ninnishtam Ennishtam" Director="Alleppey Ashraf" Role="Srikumar" WikiLink="https://en.wikipedia.org/wiki/Ninnishtam_Ennishtam" />
+    <film  id="101" Year="1986" Film="Pappan Priyappetta Pappan" Director="Sathyan Anthikkad" Role="Inspector Devadas" WikiLink="https://en.wikipedia.org/wiki/Pappan_Priyappetta_Pappan" />
+    <film  id="102" Year="1986" Film="Oppam Oppathinoppam" Director="Soman Ambaat" Role="Krishnankutty" WikiLink="https://en.wikipedia.org/wiki/Oppam_Oppathinoppam" />
+    <film  id="103" Year="1986" Film="Mazha Peyyunnu Maddalam Kottunnu" Director="Priyadarshan" Role="Shambu" WikiLink="https://en.wikipedia.org/wiki/Mazha_Peyyunnu_Maddalam_Kottunnu" />
+    <film  id="104" Year="1986" Film="Panchagni" Director="Hariharan" Role="Rasheed" WikiLink="https://en.wikipedia.org/wiki/Panchagni" />
+    <film  id="105" Year="1986" Film="Kariyilakkattupole" Director="Padmarajan" Role="Inspector Achuthankutty" WikiLink="https://en.wikipedia.org/wiki/Kariyilakkattupole" />
+    <film  id="106" Year="1986" Film="Abhayam Thedi" Director="I. V. Sasi" Role="Appu / Appettan" WikiLink="https://en.wikipedia.org/wiki/Abhayam_Thedi" />
+    <film  id="107" Year="1986" Film="Vartha" Director="I. V. Sasi" Role="Vasu" WikiLink="https://en.wikipedia.org/wiki/Vartha" />
+    <film  id="108" Year="1986" Film="Geetham" Director="Sajan" Role="Jagadeesh Nair" WikiLink="https://en.wikipedia.org/wiki/Geetham_(film)" />
+    <film  id="109" Year="1986" Film="Hello My Dear Wrong Number" Director="Priyadarshan" Role="Venugopal" WikiLink="https://en.wikipedia.org/wiki/Hello_My_Dear_Wrong_Number" />
+    <film  id="110" Year="1986" Film="Neram Pularumbol" Director="K. P. Kumaran" Role="Godfree" WikiLink="https://en.wikipedia.org/wiki/Neram_Pularumbol" />
+    <film  id="111" Year="1986" Film="Iniyum Kurukshetrum" Director="J. Sasikumar" Role="Suresh Babu" WikiLink="https://en.wikipedia.org/wiki/Iniyum_Kurukshetrum" />
+    <film  id="112" Year="1986" Film="Kaveri" Director="Rajeevnath" Role="Balachandran Nair" WikiLink="https://en.wikipedia.org/wiki/Kaveri_(1986_film)" />
+    <film  id="113" Year="1986" Film="Mizhineerppoovukal" Director="Kamal" Role="Richard" WikiLink="https://en.wikipedia.org/wiki/Mizhineerppoovukal" />
+    <film  id="114" Year="1986" Film="Poomukhappadiyil Ninneyum Kathu" Director="Bhadran" Role="Pauly" WikiLink="https://en.wikipedia.org/wiki/Poomukhappadiyil_Ninneyum_Kathu" />
+    <film  id="115" Year="1986" Film="Nimishangal" Director="P. K. Abraham" Role="Murali" WikiLink="https://en.wikipedia.org/wiki/Nimishangal" />
+    <film  id="116" Year="1986" Film="Doore Doore Oru Koodu Koottam" Director="Sibi Malayil" Role="Diwakaran" WikiLink="https://en.wikipedia.org/wiki/Doore_Doore_Oru_Koodu_Koottam" />
+    <film  id="117" Year="1986" Film="Yuvajanotsavam" Director="Sreekumaran Thampi" Role="Jayan" WikiLink="https://en.wikipedia.org/wiki/Yuvajanotsavam" />
+    <film  id="118" Year="1986" Film="Shobaraj" Director="J. Sasikumar" Role="Shobaraj, Dharmaraj" WikiLink="https://en.wikipedia.org/wiki/Shobaraj" />
+    <film  id="119" Year="1986" Film="Onnu Muthal Poojyam Vare" Director="Raghunath Paleri" Role="Telephone Uncle" WikiLink="https://en.wikipedia.org/wiki/Onnu_Muthal_Poojyam_Vare" />
+    <film  id="120" Year="1986" Film="Ente Entethu Mathram" Director="J. Sasikumar" Role="Mr. Menon" WikiLink="https://en.wikipedia.org/wiki/Ente_Entethu_Mathram" />
+    <film  id="121" Year="1986" Film="Padayani" Director="T. S. Mohan" Role="Ramesh" WikiLink="https://en.wikipedia.org/wiki/Padayani_(film)" />
+    <film  id="122" Year="1986" Film="Manasilloru Manimuthu" Director="J. Sasikumar" Role="Mohan" WikiLink="https://en.wikipedia.org/wiki/Manasilloru_Manimuthu" />
+    <film  id="123" Year="1986" Film="Sanmanassullavarkku Samadhanam" Director="Sathyan Anthikkad" Role="Gopalakrishna Panicker" WikiLink="https://en.wikipedia.org/wiki/Sanmanassullavarkku_Samadhanam" />
+    <film  id="124" Year="1986" Film="Adiverukal" Director="P. Anil" Role="Balakrishnan" WikiLink="https://en.wikipedia.org/wiki/Adiverukal" />
+    <film  id="125" Year="1986" Film="Deshadanakkili Karayarilla" Director="Padmarajan" Role="Harishankar" WikiLink="https://en.wikipedia.org/wiki/Deshadanakkili_Karayarilla" />
+    <film  id="126" Year="1986" Film="Revathikkoru Pavakkutty" Director="Sathyan Anthikkad" Role="Dr. Madhavankutty" WikiLink="https://en.wikipedia.org/wiki/Revathikkoru_Pavakkutty" />
+    <film  id="127" Year="1986" Film="Kunjattakkilikal" Director="J. Sasikumar" Role="Balakrishnan" WikiLink="https://en.wikipedia.org/wiki/Kunjattakkilikal" />
+    <film  id="128" Year="1986" Film="T. P. Balagopalan M.A." Director="Sathyan Anthikkad" Role="Balagopalan" WikiLink="https://en.wikipedia.org/wiki/T._P._Balagopalan_M.A." />
+    <film  id="129" Year="1986" Film="Gandhinagar 2nd Street" Director="Sathyan Anthikkad" Role="Sethu / Ram Singh" WikiLink="https://en.wikipedia.org/wiki/Gandhinagar_2nd_Street" />
+    <film  id="130" Year="1986" Film="Rajavinte Makan" Director="Thambi Kannanthanam" Role="Vincent Gomas" WikiLink="https://en.wikipedia.org/wiki/Rajavinte_Makan" />
+    <film  id="131" Year="1986" Film="Namukku Parkkan Munthirithoppukal" Director="Padmarajan" Role="Solomon" WikiLink="https://en.wikipedia.org/wiki/Namukku_Parkkan_Munthirithoppukal" />
+    <film  id="132" Year="1986" Film="Sukhamo Devi" Director="Venu Nagavalli" Role="Sunny" WikiLink="https://en.wikipedia.org/wiki/Sukhamo_Devi" />
+    <film  id="133" Year="1986" Film="Thalavattam" Director="Priyadarshan" Role="Vinod" WikiLink="https://en.wikipedia.org/wiki/Thalavattam" />
+    <film  id="134" Year="1987" Film="January Oru Orma" Director="Joshiy" Role="Raju" WikiLink="https://en.wikipedia.org/wiki/January_Oru_Orma" />
+    <film  id="135" Year="1987" Film="Amrutham Gamaya" Director="Hariharan" Role="Dr. P. K. Haridas" WikiLink="https://en.wikipedia.org/wiki/Amrutham_Gamaya" />
+    <film  id="136" Year="1987" Film="Adimakal Udamakal" Director="I. V. Sasi" Role="Mohan Cheriyan" WikiLink="https://en.wikipedia.org/wiki/Adimakal_Udamakal" />
+    <film  id="137" Year="1987" Film="Sarvakalashala" Director="Venu Nagavalli" Role="Lal" WikiLink="https://en.wikipedia.org/wiki/Sarvakalashala" />
+    <film  id="138" Year="1987" Film="Irupatham Noottandu" Director="K. Madhu" Role="Sagar Alias Jacky" WikiLink="https://en.wikipedia.org/wiki/Irupatham_Noottandu" />
+    <film  id="139" Year="1987" Film="Bhoomiyile Rajakkanmar" Director="Thambi Kannanthanam" Role="Raja Mahindra Varma" WikiLink="https://en.wikipedia.org/wiki/Bhoomiyile_Rajakkanmar" />
+    <film  id="140" Year="1987" Film="Unnikale Oru Kadha Parayam" Director="Kamal" Role="Aby" WikiLink="https://en.wikipedia.org/wiki/Unnikale_Oru_Kadha_Parayam" />
+    <film  id="141" Year="1987" Film="Thoovanathumbikal" Director="Padmarajan" Role="Mannarathodi Jayakrishnan" WikiLink="https://en.wikipedia.org/wiki/Thoovanathumbikal" />
+    <film  id="142" Year="1987" Film="Kaiyethum Doorathu" Director="K. Ramachandran" Role="Vinod" WikiLink="https://en.wikipedia.org/wiki/Kaiyethum_Doorathu" />
+    <film  id="143" Year="1987" Film="Vazhiyorakkazhcakal" Director="Thambi Kannanthanam" Role="Raghvan / Antony Isaac" WikiLink="https://en.wikipedia.org/wiki/Vazhiyorakkazhcakal" />
+    <film  id="144" Year="1987" Film="Cheppu" Director="Priyadarshan" Role="Ramachandran" WikiLink="https://en.wikipedia.org/wiki/Cheppu" />
+    <film  id="145" Year="1987" Film="Nadodikkattu" Director="Sathyan Anthikkad" Role="Ramadasan aka Dasan" WikiLink="https://en.wikipedia.org/wiki/Nadodikkattu" />
+    <film  id="146" Year="1987" Film="Mizhiyorangalil" Director="T. S. Dasan" Role="" WikiLink="https://en.wikipedia.org/wiki/Mizhiyorangalil" />
+    <film  id="147" Year="1987" Film="Ivide Ellavarkum Sugham" Director="Jeassy" Role="Appu" WikiLink="https://en.wikipedia.org/wiki/Ivide_Ellavarkum_Sugham" />
+    <film  id="148" Year="1988" Film="Mukunthetta Sumitra Vilikkunnu" Director="Priyadarshan" Role="Mukundan" WikiLink="https://en.wikipedia.org/wiki/Mukunthetta_Sumitra_Vilikkunnu" />
+    <film  id="149" Year="1988" Film="Ayitham" Director="Venu Nagavalli" Role="Sankaran" WikiLink="https://en.wikipedia.org/wiki/Ayitham" />
+    <film  id="150" Year="1988" Film="Manu Uncle" Director="Dennis Joseph" Role="Himself" WikiLink="https://en.wikipedia.org/wiki/Manu_Uncle" />
+    <film  id="151" Year="1988" Film="Orkkapurathu" Director="Kamal" Role="Freddy Nicholas" WikiLink="https://en.wikipedia.org/wiki/Orkkapurathu" />
+    <film  id="152" Year="1988" Film="Paadha Mudra" Director="R. Sukumaran" Role="Mathu Pandaram, Soap Kuttappan" WikiLink="https://en.wikipedia.org/wiki/Paadha_Mudra" />
+    <film  id="153" Year="1988" Film="Pattanapravesham" Director="Sathyan Anthikkad" Role="C. I. D Ramdas" WikiLink="https://en.wikipedia.org/wiki/Pattanapravesham" />
+    <film  id="154" Year="1988" Film="Anuragi" Director="I. V. Sasi" Role="Samu" WikiLink="https://en.wikipedia.org/wiki/Anuragi" />
+    <film  id="155" Year="1988" Film="Aryan" Director="Priyadarshan" Role="Devanarayanan" WikiLink="https://en.wikipedia.org/wiki/Aryan_(1988_film)" />
+    <film  id="156" Year="1988" Film="Moonnam Mura" Director="K. Madhu" Role="Ali Imran" WikiLink="https://en.wikipedia.org/wiki/Moonnam_Mura" />
+    <film  id="157" Year="1988" Film="Vellanakalude Nadu" Director="Priyadarshan" Role="C. Pavithran Nair aka C. P." WikiLink="https://en.wikipedia.org/wiki/Vellanakalude_Nadu" />
+    <film  id="158" Year="1988" Film="Ulsavapittennu" Director="Bharath Gopi" Role="Aniyankuttan" WikiLink="https://en.wikipedia.org/wiki/Ulsavapittennu" />
+    <film  id="159" Year="1988" Film="Chithram" Director="Priyadarshan" Role="Vishnu" WikiLink="https://en.wikipedia.org/wiki/Chithram" />
+    <film  id="160" Year="1989" Film="Lal Americayil" Director="Sathyan Anthikkad" Role="Lal" WikiLink="https://en.wikipedia.org/wiki/Lal_Americayil" />
+    <film  id="161" Year="1989" Film="Douthyam" Director="P. Anil" Role="Capt. Roy Jacob Thomas" WikiLink="https://en.wikipedia.org/wiki/Douthyam" />
+    <film  id="162" Year="1989" Film="Season" Director="Padmarajan" Role="Jeevan" WikiLink="https://en.wikipedia.org/wiki/Season_(film)" />
+    <film  id="163" Year="1989" Film="Varavelpu" Director="Sathyan Anthikkad" Role="Murali" WikiLink="https://en.wikipedia.org/wiki/Varavelpu" />
+    <film  id="164" Year="1989" Film="Naduvazhikal" Director="Joshiy" Role="Arjun" WikiLink="https://en.wikipedia.org/wiki/Naduvazhikal" />
+    <film  id="165" Year="1989" Film="Peruvannapurathe Visheshangal" Director="Kamal" Role="Achu" WikiLink="https://en.wikipedia.org/wiki/Peruvannapurathe_Visheshangal" />
+    <film  id="166" Year="1989" Film="Kireedam" Director="Sibi Malayil" Role="Sethumadhavan" WikiLink="https://en.wikipedia.org/wiki/Kireedam_(1989_film)" />
+    <film  id="167" Year="1989" Film="Vandanam" Director="Priyadarshan" Role="Unnikrishnan" WikiLink="https://en.wikipedia.org/wiki/Vandanam" />
+    <film  id="168" Year="1989" Film="Adhipan" Director="K. Madhu" Role="Adv. Shyam Prakash" WikiLink="https://en.wikipedia.org/wiki/Adhipan" />
+    <film  id="169" Year="1989" Film="Dasharatham" Director="Sibi Malayil" Role="Rajiv Menon" WikiLink="https://en.wikipedia.org/wiki/Dasharatham" />
+    <film  id="170" Year="1990" Film="Aye Auto" Director="Venu Nagavalli" Role="Sudhi" WikiLink="https://en.wikipedia.org/wiki/Aye_Auto" />
+    <film  id="171" Year="1990" Film="Akkare Akkare Akkare" Director="Priyadarshan" Role="C. I. D Ramdas" WikiLink="https://en.wikipedia.org/wiki/Akkare_Akkare_Akkare" />
+    <film  id="172" Year="1990" Film="No.20 Madras Mail" Director="Joshiy" Role="Tony Kurishingal" WikiLink="https://en.wikipedia.org/wiki/No.20_Madras_Mail" />
+    <film  id="173" Year="1990" Film="His Highness Abdullah" Director="Sibi Malayil" Role="Abdullah / Anandhan Namboothiri" WikiLink="https://en.wikipedia.org/wiki/His_Highness_Abdullah" />
+    <film  id="174" Year="1990" Film="Mukham" Director="Mohan" Role="Hariprasad" WikiLink="https://en.wikipedia.org/wiki/Mukham" />
+    <film  id="175" Year="1990" Film="Kadathanadan Ambadi" Director="Priyadarshan" Role="Kadathanadan Ambadi" WikiLink="https://en.wikipedia.org/wiki/Kadathanadan_Ambadi" />
+    <film  id="176" Year="1990" Film="Thazhvaram" Director="Bharathan" Role="Balan" WikiLink="https://en.wikipedia.org/wiki/Thazhvaram" />
+    <film  id="177" Year="1990" Film="Arhatha" Director="I. V. Sasi" Role="Devaraaj" WikiLink="https://en.wikipedia.org/wiki/Arhatha" />
+    <film  id="178" Year="1990" Film="Indrajaalam" Director="Thambi Kannanthanam" Role="Kannan Nair" WikiLink="https://en.wikipedia.org/wiki/Indrajaalam" />
+    <film  id="179" Year="1990" Film="Appu" Director="Dennis Joseph" Role="Appu" WikiLink="https://en.wikipedia.org/wiki/Appu_(1990_film)" />
+    <film  id="180" Year="1990" Film="Lal Salam" Director="Venu Nagavalli" Role="Nettoor Stephan" WikiLink="https://en.wikipedia.org/wiki/Lal_Salam_(1990_film)" />
+    <film  id="181" Year="1991" Film="Dhanam" Director="Sibi Malayil" Role="Sivashankaran" WikiLink="https://en.wikipedia.org/wiki/Dhanam" />
+    <film  id="182" Year="1991" Film="Bharatham" Director="Sibi Malayil" Role="Kalloor Gopinathan" WikiLink="https://en.wikipedia.org/wiki/Bharatham" />
+    <film  id="183" Year="1991" Film="Vasthuhara" Director="G. Aravindan" Role="Venugopal" WikiLink="https://en.wikipedia.org/wiki/Vasthuhara" />
+    <film  id="184" Year="1991" Film="Vishnulokam" Director="Kamal" Role="Shanku" WikiLink="https://en.wikipedia.org/wiki/Vishnulokam" />
+    <film  id="185" Year="1991" Film="Uncle Bun" Director="Bhadran" Role="Charlie Chacko" WikiLink="https://en.wikipedia.org/wiki/Uncle_Bun" />
+    <film  id="186" Year="1991" Film="Kilukkam" Director="Priyadarshan" Role="Joji" WikiLink="https://en.wikipedia.org/wiki/Kilukkam" />
+    <film  id="187" Year="1991" Film="Ulladakkam" Director="Kamal" Role="Dr. Sunny" WikiLink="https://en.wikipedia.org/wiki/Ulladakkam" />
+    <film  id="188" Year="1991" Film="Kizhakkunarum Pakshi" Director="Venu Nagavalli" Role="Ananthmoorthy" WikiLink="https://en.wikipedia.org/wiki/Kizhakkunarum_Pakshi" />
+    <film  id="189" Year="1991" Film="Abhimanyu" Director="Priyadarshan" Role="Hari Krishnan" WikiLink="https://en.wikipedia.org/wiki/Abhimanyu_(1991_film)" />
+    <film  id="190" Year="1992" Film="Sadayam" Director="Sibi Malayil" Role="Sathyanadhan" WikiLink="https://en.wikipedia.org/wiki/Sadayam" />
+    <film  id="191" Year="1992" Film="Kamaladalam" Director="Sibi Malayil" Role="Nandagopan" WikiLink="https://en.wikipedia.org/wiki/Kamaladalam" />
+    <film  id="192" Year="1992" Film="Aham" Director="Rajeevnath" Role="Sidharthan" WikiLink="https://en.wikipedia.org/wiki/Aham_(film)" />
+    <film  id="193" Year="1992" Film="Rajashilpi" Director="R. Sukumaran" Role="Shambhu" WikiLink="https://en.wikipedia.org/wiki/Rajashilpi" />
+    <film  id="194" Year="1992" Film="Yodha" Director="Sangeeth Sivan" Role="Thaiparambil Ashokan" WikiLink="https://en.wikipedia.org/wiki/Aham_(film)" />
+    <film  id="195" Year="1992" Film="Advaitham" Director="Priyadarshan" Role="Sivaprasad" WikiLink="https://en.wikipedia.org/wiki/Advaitham" />
+    <film  id="196" Year="1992" Film="Soorya Gayathri" Director="P. Anil" Role="Dr. Balasubramaniam" WikiLink="https://en.wikipedia.org/wiki/Soorya_Gayathri" />
+    <film  id="197" Year="1992" Film="Naadody" Director="Thambi Kannanthanam" Role="Sachidanandan, Balakrishnan Bhagavathar" WikiLink="https://en.wikipedia.org/wiki/Naadody" />
+    <film  id="198" Year="1992" Film="Vietnam Colony" Director="Siddique-Lal" Role="G. Krishnamurthy" WikiLink="https://en.wikipedia.org/wiki/Vietnam_Colony" />
+    <film  id="199" Year="1993" Film="Mithunam" Director="Priyadarshan" Role="Sedhumadhavan" WikiLink="https://en.wikipedia.org/wiki/Devaasuram" />
+    <film  id="200" Year="1993" Film="Devaasuram" Director="I. V. Sasi" Role="Mangalassery Neelakandan" WikiLink="https://en.wikipedia.org/wiki/Devaasuram" />
+    <film  id="201" Year="1993" Film="Butterflies" Director="Rajiv Anchal" Role="Prince" WikiLink="https://en.wikipedia.org/wiki/Butterflies_(1993_film)" />
+    <film  id="202" Year="1993" Film="Maya Mayooram" Director="Sibi Malayil" Role="Krishnan Unni, Narendran" WikiLink="https://en.wikipedia.org/wiki/Maya_Mayooram" />
+    <film  id="203" Year="1993" Film="Gandharvam" Director="Sangeeth Sivan" Role="Samuel Alexander" WikiLink="https://en.wikipedia.org/wiki/Gandharvam" />
+    <film  id="204" Year="1993" Film="Chenkol" Director="Sibi Malayil" Role="Sedhumadhavan" WikiLink="https://en.wikipedia.org/wiki/Chenkol" />
+    <film  id="205" Year="1993" Film="Kalippattam" Director="Venu Nagavally" Role="Venu" WikiLink="https://en.wikipedia.org/wiki/Kalippattam" />
+    <film  id="206" Year="1993" Film="Manichithrathazhu" Director="Fazil" Role="Dr. Sunny Joseph" WikiLink="https://en.wikipedia.org/wiki/Manichithrathazhu" />
+    <film  id="207" Year="1994" Film="Pavithram" Director="T. K. Rajeev Kumar" Role="Unnikrishnan" WikiLink="https://en.wikipedia.org/wiki/Pavithram" />
+    <film  id="208" Year="1994" Film="Thenmavin Kombath" Director="Priyadarshan" Role="Manikyan" WikiLink="https://en.wikipedia.org/wiki/Thenmavin_Kombath" />
+    <film  id="209" Year="1994" Film="Pingami" Director="Sathyan Anthikkad" Role="Captain Vijay Menon" WikiLink="https://en.wikipedia.org/wiki/Pingami" />
+    <film  id="210" Year="1994" Film="Pakshe" Director="Mohan" Role="Balachandran" WikiLink="https://en.wikipedia.org/wiki/Pakshe" />
+    <film  id="211" Year="1994" Film="Minnaram" Director="Priyadarshan" Role="Boby" WikiLink="https://en.wikipedia.org/wiki/Minnaram" />
+    <film  id="212" Year="1995" Film="Nirnayam" Director="Sangeeth Sivan" Role="Dr. Roy Alex" WikiLink="https://en.wikipedia.org/wiki/Nirnayam_(1995_film)" />
+    <film  id="213" Year="1995" Film="Sphadikam" Director="Bhadran" Role="Thomas Chacko aka Aadu Thoma" WikiLink="https://en.wikipedia.org/wiki/Sphadikam" />
+    <film  id="214" Year="1995" Film="Thacholi Varghese Chekavar" Director="T. K. Rajeev Kumar" Role="Thacholi Varghese Chekavar" WikiLink="https://en.wikipedia.org/wiki/Thacholi_Varghese_Chekavar" />
+    <film  id="215" Year="1995" Film="Manthrikam" Director="Thambi Kannanthanam" Role="Stephen Ronald aka Alby Romeo Higuitta" WikiLink="https://en.wikipedia.org/wiki/Manthrikam" />
+    <film  id="216" Year="1995" Film="Agnidevan" Director="Venu Nagavalli" Role="Aniyankuttan / Ravi Varma" WikiLink="https://en.wikipedia.org/wiki/Agnidevan" />
+    <film  id="217" Year="1996" Film="Kalapani" Director="Priyadarshan" Role="Dr. Govardhan" WikiLink="https://en.wikipedia.org/wiki/Kala_Pani_(1996_film)" />
+    <film  id="218" Year="1996" Film="The Prince" Director="Suresh Krishna" Role="Jeeva" WikiLink="https://en.wikipedia.org/wiki/The_Prince_(1996_film)" />
+    <film  id="219" Year="1997" Film="Varnapakittu" Director="I. V. Sasi" Role="Sunny Palamattom" WikiLink="https://en.wikipedia.org/wiki/Varnapakittu" />
+    <film  id="220" Year="1997" Film="Oru Yathramozhi" Director="Prathap Pothan" Role="Govindankutty" WikiLink="https://en.wikipedia.org/wiki/Oru_Yathramozhi" />
+    <film  id="221" Year="1997" Film="Chandralekha" Director="Priyadarshan" Role="Appukuttan / Alfy" WikiLink="https://en.wikipedia.org/wiki/Chandralekha_(1997_film)" />
+    <film  id="222" Year="1997" Film="Guru" Director="Rajiv Anchal" Role="Reghuraman" WikiLink="https://en.wikipedia.org/wiki/Guru_(1997_film)" />
+    <film  id="223" Year="1997" Film="Aaraam Thampuran" Director="Shaji Kailas" Role="Jagannaadhan" WikiLink="https://en.wikipedia.org/wiki/Aaraam_Thampuran" />
+    <film  id="224" Year="1998" Film="Kanmadam" Director="Lohithadas" Role="Vishwanathan" WikiLink="https://en.wikipedia.org/wiki/Kanmadam" />
+    <film  id="225" Year="1998" Film="Harikrishnans" Director="Fazil" Role="Adv. Krishnan" WikiLink="https://en.wikipedia.org/wiki/Harikrishnans" />
+    <film  id="226" Year="1998" Film="Rakthasakshikal Sindabad" Director="Venu Nagavalli" Role="Siva Subrahmanya Iyyar" WikiLink="https://en.wikipedia.org/wiki/Rakthasakshikal_Sindabad" />
+    <film  id="227" Year="1998" Film="Ayal Kadha Ezhuthukayanu" Director="Kamal" Role="Sagar Kottappuram / Vidyasagar" WikiLink="https://en.wikipedia.org/wiki/Ayal_Kadha_Ezhuthukayanu" />
+    <film  id="228" Year="1998" Film="Summer in Bethlahem" Director="Sibi Malayil" Role="Niranjan" WikiLink="https://en.wikipedia.org/wiki/Summer_in_Bethlahem" />
+    <film  id="229" Year="1999" Film="Ustaad" Director="Sibi Malayil" Role="Parameswaran / Ustaad" WikiLink="https://en.wikipedia.org/wiki/Ustaad" />
+    <film  id="230" Year="1999" Film="Olympiyan Anthony Adam" Director="Bhadran" Role="Chakkummoottil Varghese AntonyIPS" WikiLink="https://en.wikipedia.org/wiki/Olympiyan_Anthony_Adam" />
+    <film  id="231" Year="1999" Film="Vanaprastham" Director="Shaji N Karun" Role="Kunjikuttan" WikiLink="https://en.wikipedia.org/wiki/Vanaprastham" />
+    <film  id="232" Year="2000" Film="Narasimham" Director="Shaji Kailas" Role="Poovalli Induchoodan" WikiLink="https://en.wikipedia.org/wiki/Narasimham_(film)" />
+    <film  id="233" Year="2000" Film="Life is Beautiful" Director="Fazil" Role="Vinaya Chandran" WikiLink="https://en.wikipedia.org/wiki/Life_Is_Beautiful_(2000_film)" />
+    <film  id="234" Year="2000" Film="Sraddha" Director="I. V. Sasi" Role="Gangaprasad IPS" WikiLink="https://en.wikipedia.org/wiki/Sradha" />
+    <film  id="235" Year="2000" Film="Devadoothan" Director="Sibi Malayil" Role="Vishal Krishnamoorthy" WikiLink="https://en.wikipedia.org/wiki/Devadoothan" />
+    <film  id="236" Year="2001" Film="Kakkakuyil" Director="Priyadarshan" Role="Sivaraman" WikiLink="https://en.wikipedia.org/wiki/Kakkakuyil" />
+    <film  id="237" Year="2001" Film="Ravanaprabhu" Director="Ranjith" Role="Mangalassery Neelakandan, M. N Karthikeyan" WikiLink="https://en.wikipedia.org/wiki/Ravanaprabhu" />
+    <film  id="238" Year="2001" Film="Praja" Director="Joshiy" Role="Zakir Ali Hussain" WikiLink="https://en.wikipedia.org/wiki/Onnaman" />
+    <film  id="239" Year="2001" Film="Unnathangalil" Director="Jomon" Role="Rakshakan" WikiLink="https://en.wikipedia.org/wiki/Unnathangalil" />
+    <film  id="240" Year="2001" Film="Achaneyanenikkishtam" Director="Suresh Krishna" Role="Mahadevan" WikiLink="https://en.wikipedia.org/wiki/Achaneyanenikkishtam" />
+    <film  id="241" Year="2002" Film="Onnaman" Director="Thambi Kannanthanam" Role="Ravishankar" WikiLink="https://en.wikipedia.org/wiki/Onnaman" />
+    <film  id="242" Year="2002" Film="Thandavam" Director="Shaji Kailas" Role="Kashinathan" WikiLink="https://en.wikipedia.org/wiki/Thandavam_(film)" />
+    <film  id="243" Year="2002" Film="Chathurangam" Director="K. Madhu" Role="Aatiprackal Jimmy Jacob" WikiLink="https://en.wikipedia.org/wiki/Mr._Brahmachari" />
+    <film  id="244" Year="2003" Film="Mr. Brahmachari" Director="Thulasidas" Role="Ananthan Thampi" WikiLink="https://en.wikipedia.org/wiki/Mr._Brahmachari" />
+    <film  id="245" Year="2003" Film="Kilichundan Mampazham" Director="Priyadarshan" Role="Abdul Khader" WikiLink="https://en.wikipedia.org/wiki/Kilichundan_Mampazham" />
+    <film  id="246" Year="2003" Film="Balettan" Director="V. M. Vinu" Role="Athaniparambil Balachandran" WikiLink="https://en.wikipedia.org/wiki/Balettan" />
+    <film  id="247" Year="2003" Film="Hariharan Pillai Happy Aanu" Director="Viswanathan" Role="Hariharan Pillai" WikiLink="https://en.wikipedia.org/wiki/Hariharan_Pillai_Happy_Aanu" />
+    <film  id="248" Year="2004" Film="Vamanapuram Bus Route" Director="Sonu Shishupal" Role="Lever Johny" WikiLink="https://en.wikipedia.org/wiki/Vamanapuram_Bus_Route" />
+    <film  id="249" Year="2004" Film="Vismayathumbathu" Director="Fazil" Role="Sreekumar" WikiLink="https://en.wikipedia.org/wiki/Vismayathumbathu" />
+    <film  id="250" Year="2004" Film="Wanted" Director="Murali Nagavally" Role="Narayana Swamy" WikiLink="https://en.wikipedia.org/wiki/Wanted_(2004_film)" />
+    <film  id="251" Year="2004" Film="Natturajavu" Director="Shaji Kailas" Role="Pulikkattil Charlie" WikiLink="https://en.wikipedia.org/wiki/Natturajavu" />
+    <film  id="252" Year="2004" Film="Mampazhakkalam" Director="Joshiy" Role="Puramanayil Chandran" WikiLink="https://en.wikipedia.org/wiki/Mampazhakkalam" />
+    <film  id="253" Year="2005" Film="Udayananu Tharam" Director="Rosshan Andrrews" Role="Udayabhanu" WikiLink="https://en.wikipedia.org/wiki/Udayananu_Tharam" />
+    <film  id="254" Year="2005" Film="Chandrolsavam" Director="Ranjith" Role="Chirakkal Sreehari" WikiLink="https://en.wikipedia.org/wiki/Chandrolsavam" />
+    <film  id="255" Year="2005" Film="Udayon" Director="Bhadran" Role="Shooranad Pappoyi, Shooranad Kunju" WikiLink="https://en.wikipedia.org/wiki/Udayon" />
+    <film  id="256" Year="2005" Film="Naran" Director="Joshiy" Role="Mullankolli Velayudhan" WikiLink="https://en.wikipedia.org/wiki/Naran_(film)" />
+    <film  id="257" Year="2005" Film="Thanmathra" Director="Blessy" Role="Rameshan Nair" WikiLink="https://en.wikipedia.org/wiki/Thanmathra" />
+    <film  id="258" Year="2006" Film="Kilukkam Kilukilukkam" Director="Sandhya Mohan" Role="Joji" WikiLink="https://en.wikipedia.org/wiki/Kilukkam_Kilukilukkam" />
+    <film  id="259" Year="2006" Film="Rasathanthram" Director="Sathyan Anthikkad" Role="Premachandran" WikiLink="https://en.wikipedia.org/wiki/Rasathanthram" />
+    <film  id="260" Year="2006" Film="Vadakkumnathan" Director="Shajoon Karyal" Role="Iringannoor Bharatha Pisharadi" WikiLink="https://en.wikipedia.org/wiki/Vadakkumnathan_(film)" />
+    <film  id="261" Year="2006" Film="Keerthi Chakra" Director="Major Ravi" Role="Major Mahadevan" WikiLink="https://en.wikipedia.org/wiki/Keerthi_Chakra_(film)" />
+    <film  id="262" Year="2006" Film="Mahasamudram" Director="Dr. S. Janardhanan" Role="Isahak" WikiLink="https://en.wikipedia.org/wiki/Mahasamudram" />
+    <film  id="263" Year="2006" Film="Photographer" Director="Ranjan Pramod" Role="Dijo John, Joy John" WikiLink="https://en.wikipedia.org/wiki/Photographer_(film)" />
+    <film  id="264" Year="2006" Film="Baba Kalyani" Director="Shaji Kailas" Role="Baba Kalyani IPS" WikiLink="https://en.wikipedia.org/wiki/Baba_Kalyani_(film)" />
+    <film  id="265" Year="2007" Film="Chotta Mumbai" Director="Anwar Rasheed" Role="Vasco da Gama aka Thala" WikiLink="https://en.wikipedia.org/wiki/Chotta_Mumbai" />
+    <film  id="266" Year="2007" Film="Hallo" Director="Rafi Mecartin" Role="Sivaraman" WikiLink="https://en.wikipedia.org/wiki/Hallo_(film)" />
+    <film  id="267" Year="2007" Film="Alibhai" Director="Shaji Kailas" Role="Anwar Ali aka Ali Bhai" WikiLink="https://en.wikipedia.org/wiki/Alibhai" />
+    <film  id="268" Year="2007" Film="Paradesi" Director="P.T. Kunju Muhammed" Role="Valiyakathu Moosa" WikiLink="https://en.wikipedia.org/wiki/Paradesi_(2007_film)" />
+    <film  id="269" Year="2007" Film="Rock N' Roll" Director="Ranjith" Role="Chandramouli" WikiLink="https://en.wikipedia.org/wiki/Rock_%26_Roll_(film)" />
+    <film  id="270" Year="2007" Film="Flash" Director="Sibi Malayil" Role="Dr. Midhun Madhav" WikiLink="https://en.wikipedia.org/wiki/Flash_(2007_film)" />
+    <film  id="271" Year="2008" Film="College Kumaran" Director="Thulasidas" Role="Captain SreeKumar" WikiLink="https://en.wikipedia.org/wiki/College_Kumaran" />
+    <film  id="272" Year="2008" Film="Innathe Chintha Vishayam" Director="Sathyan Anthikkad" Role="Gopakumar aka GK" WikiLink="https://en.wikipedia.org/wiki/Innathe_Chintha_Vishayam" />
+    <film  id="273" Year="2008" Film="Mizhikal Sakshi" Director="Ashok R. Nath" Role="Prof. Saeed Ahmed" WikiLink="https://en.wikipedia.org/wiki/Mizhikal_Sakshi" />
+    <film  id="274" Year="2008" Film="Madampi" Director="B. Unnikrishnan" Role="Putthanpurakkal Gopalakrishna Pillai" WikiLink="https://en.wikipedia.org/wiki/Madampi" />
+    <film  id="275" Year="2008" Film="Aakasha Gopuram" Director="K.P. Kumaran" Role="Albert Samson" WikiLink="https://en.wikipedia.org/wiki/Aakasha_Gopuram" />
+    <film  id="276" Year="2008" Film="Kurukshetra" Director="Major Ravi" Role="Colonel Mahadevan" WikiLink="https://en.wikipedia.org/wiki/Kurukshetra_(2008_film)" />
+    <film  id="277" Year="2008" Film="Twenty:20" Director="Joshiy" Role="Devaraja Prathapa Varma" WikiLink="https://en.wikipedia.org/wiki/Twenty:20_(film)" />
+    <film  id="278" Year="2008" Film="Pakal Nakshatrangal" Director="Rajeevnath" Role="Sidharthan" WikiLink="https://en.wikipedia.org/wiki/Pakal_Nakshatrangal" />
+    <film  id="279" Year="2009" Film="Red Chillies" Director="Shaji Kailas" Role="Oyyarathu Madathil Ramanathan aka OMR" WikiLink="https://en.wikipedia.org/wiki/Red_Chillies_(film)" />
+    <film  id="280" Year="2009" Film="Sagar Alias Jacky Reloaded" Director="Amal Neerad" Role="Sagar Alias Jacky" WikiLink="https://en.wikipedia.org/wiki/Sagar_Alias_Jacky_Reloaded" />
+    <film  id="281" Year="2009" Film="Bhagavan" Director="Prasanth Mampully" Role="Dr. Balagopalan" WikiLink="https://en.wikipedia.org/wiki/Bhagavan_(2009_film)" />
+    <film  id="282" Year="2009" Film="Bhramaram" Director="Blessy" Role="Sivankutty" WikiLink="https://en.wikipedia.org/wiki/Bhramaram" />
+    <film  id="283" Year="2009" Film="Angel John" Director="S. L. Puram Jayasurya" Role="Angel John" WikiLink="https://en.wikipedia.org/wiki/Angel_John" />
+    <film  id="284" Year="2009" Film="Evidam Swargamanu" Director="Rosshan Andrrews" Role="Mathews" WikiLink="https://en.wikipedia.org/wiki/Evidam_Swargamanu" />
+    <film  id="285" Year="2010" Film="Janakan" Director="N. R. Sanjeev" Role="Adv. Surya Narayanan" WikiLink="https://en.wikipedia.org/wiki/Janakan_(film)" />
+    <film  id="286" Year="2010" Film="Alexander the Great" Director="Murali Nagavally" Role="Alexander Varma" WikiLink="https://en.wikipedia.org/wiki/Alexander_the_Great_(2010_film)" />
+    <film  id="287" Year="2010" Film="Oru Naal Varum" Director="T. K. Rajeev Kumar" Role="Kulappulli Sukumaran / DYSPNandhakumar" WikiLink="https://en.wikipedia.org/wiki/Oru_Naal_Varum" />
+    <film  id="288" Year="2010" Film="Shikkar" Director="M. Padmakumar" Role="Balaraman" WikiLink="https://en.wikipedia.org/wiki/Shikkar" />
+    <film  id="289" Year="2010" Film="Kandahar" Director="Major Ravi" Role="Major Mahadevan" WikiLink="https://en.wikipedia.org/wiki/Kandahar_(2010_film)" />
+    <film  id="290" Year="2011" Film="Christian Brothers" Director="Joshiy" Role="Christy Varghese Mappila" WikiLink="https://en.wikipedia.org/wiki/Christian_Brothers_(film)" />
+    <film  id="291" Year="2011" Film="China Town" Director="Rafi Mecartin" Role="Mathukutty" WikiLink="https://en.wikipedia.org/wiki/China_Town_(2011_film)" />
+    <film  id="292" Year="2011" Film="Pranayam" Director="Blessy" Role="Mathews" WikiLink="https://en.wikipedia.org/wiki/Pranayam" />
+    <film  id="293" Year="2011" Film="Snehaveedu" Director="Sathyan Anthikkad" Role="Ajayan" WikiLink="https://en.wikipedia.org/wiki/Snehaveedu" />
+    <film  id="294" Year="2011" Film="Oru Marubhoomikkadha" Director="Priyadarshan" Role="P. Madhavan Nair" WikiLink="https://en.wikipedia.org/wiki/Oru_Marubhoomikkadha" />
+    <film  id="295" Year="2012" Film="Casanovva" Director="Rosshan Andrrews" Role="Casanovva" WikiLink="https://en.wikipedia.org/wiki/Casanovva" />
+    <film  id="296" Year="2012" Film="Grandmaster" Director="B. Unnikrishnan" Role="Chandrasekhar" WikiLink="https://en.wikipedia.org/wiki/Grandmaster_(film)" />
+    <film  id="297" Year="2012" Film="Spirit" Director="Ranjith" Role="Raghu Nandan" WikiLink="https://en.wikipedia.org/wiki/Spirit_(2012_film)" />
+    <film  id="298" Year="2012" Film="Run Baby Run" Director="Joshiy" Role="Venu" WikiLink="https://en.wikipedia.org/wiki/Run_Baby_Run_(2012_film)" />
+    <film  id="299" Year="2012" Film="Karmayodha" Director="Major Ravi" Role="Madhava Menon aka Mad Maddy" WikiLink="https://en.wikipedia.org/wiki/Karmayodha" />
+    <film  id="300" Year="2013" Film="Lokpal" Director="Joshiy" Role="Nandagopal / Lokpal" WikiLink="https://en.wikipedia.org/wiki/Lokpal_(film)" />
+    <film  id="301" Year="2013" Film="Red Wine" Director="Salam Bappu" Role="A. C. P Ratheesh Vasudevan" WikiLink="https://en.wikipedia.org/wiki/Red_Wine_(film)" />
+    <film  id="302" Year="2013" Film="Ladies and Gentleman" Director="Siddique" Role="Chandrabose" WikiLink="https://en.wikipedia.org/wiki/Ladies_and_Gentleman" />
+    <film  id="303" Year="2013" Film="Kadal Kadannu Oru Maathukutty" Director="Ranjith" Role="Himself" WikiLink="https://en.wikipedia.org/wiki/Kadal_Kadannu_Oru_Maathukutty" />
+    <film  id="304" Year="2013" Film="Geethaanjali" Director="Priyadarshan" Role="Dr. Sunny Joseph" WikiLink="https://en.wikipedia.org/wiki/Geethaanjali" />
+    <film  id="305" Year="2013" Film="Drishyam" Director="Jeethu Joseph" Role="Georgekutty" WikiLink="https://en.wikipedia.org/wiki/Drishyam" />
+    <film  id="306" Year="2014" Film="Mr. Fraud" Director="B. Unnikrishnan" Role="Bhai Ji" WikiLink="https://en.wikipedia.org/wiki/Mr._Fraud" />
+    <film  id="307" Year="2014" Film="Koothara" Director="Srinath Rajendran" Role="Usthad Saali / Siren Semiramis Aegean Derketto" WikiLink="https://en.wikipedia.org/wiki/Koothara" />
+    <film  id="308" Year="2014" Film="Peruchazhi" Director="Arun Vaidyanathan" Role="Jagannathan" WikiLink="https://en.wikipedia.org/wiki/Peruchazhi" />
+    <film  id="309" Year="2015" Film="Rasam" Director="Rajeevnath" Role="Himself" WikiLink="https://en.wikipedia.org/wiki/Rasam_(film)" />
+    <film  id="310" Year="2015" Film="Ennum Eppozhum" Director="Sathyan Anthikad" Role="Vineeth N. Pillai" WikiLink="https://en.wikipedia.org/wiki/Ennum_Eppozhum" />
+    <film  id="311" Year="2015" Film="Lailaa O Lailaa" Director="Joshiy" Role="Jai Mohan" WikiLink="https://en.wikipedia.org/wiki/Lailaa_O_Lailaa" />
+    <film  id="312" Year="2015" Film="Loham" Director="Ranjith" Role="Rajeev Sathyamoorthy / Raju" WikiLink="https://en.wikipedia.org/wiki/Loham" />
+    <film  id="313" Year="2015" Film="Kanal" Director="M. Padmakumar" Role="John David" WikiLink="https://en.wikipedia.org/wiki/Kanal_(2015_film)" />
+</Films>

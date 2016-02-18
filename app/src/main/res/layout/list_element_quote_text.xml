@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:card_view="http://schemas.android.com/apk/res-auto"
+style="@style/card_main_activity"
+card_view:cardBackgroundColor="#FFFFFF"
+card_view:cardCornerRadius="@dimen/list_card_radious"
+card_view:cardElevation="@dimen/list_card_elevation">
+
+
+
+
+</android.support.v7.widget.CardView>
+
+
+
