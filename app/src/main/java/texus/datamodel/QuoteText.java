@@ -144,26 +144,31 @@ public class QuoteText extends BaseDataModel{
 
 
 
+
 	public static boolean inseartOperation(Databases db, QuoteText instance) {
 		SQLiteDatabase sql = db.getWritableDatabase();
 		String query = "";
-		query = "insert into " + TABLE_NAME + " (" 
+		query = "insert into " + TABLE_NAME + " ("
 				+ ID + ","
 				+ IMAGE_URL + ","
 				+ AUTHOR + ","
 				+ WIKILINK + " ) values ( "
 				+ "" + instance.id + ","
-				+ "'" + instance.Quote + "',"
+				+ "'" + instance.Quote.replaceAll("'","\'") + "',"
 				+ "'" + instance.author + "',"
 				+ "'" + instance.WikiLink + "');";
+
 		LOG.log("Query:", "Query:" + query);
-		sql.execSQL(query);
+        try {
+            sql.execSQL(query);
+        } catch (Exception e) { e.printStackTrace();}
 		return true;
 	}
 
 	public static boolean updateOperation(Databases db, QuoteText instance) {
 
 		SQLiteDatabase sql = db.getWritableDatabase();
+
 		String query = "";
 		query = "update " + TABLE_NAME + " SET " 
 				+ ID + " = " + instance.id + " , "

@@ -32,7 +32,7 @@ import texus.xml.XMLTree;
  */
 public class FilmData extends BaseDataModel{
 
-	public static final String TABLE_NAME = "TableImage";
+	public static final String TABLE_NAME = "TableFilmData";
 	
 	
 	public static final String ID = "id";

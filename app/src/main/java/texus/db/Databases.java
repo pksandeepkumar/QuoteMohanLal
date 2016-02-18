@@ -21,7 +21,9 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.ArrayList;
 
+import texus.datamodel.FilmData;
 import texus.datamodel.QuoteImage;
+import texus.datamodel.QuoteText;
 import texus.utility.LOG;
 
 /**
@@ -66,10 +68,9 @@ public class Databases extends SQLiteOpenHelper  {
 	 */
 	private void loadQuery() {
 		query_create_tables = new ArrayList<String>();
+        query_create_tables.add(QuoteText.CREATE_TABE_QUERY);
 		query_create_tables.add(QuoteImage.CREATE_TABE_QUERY);
-
-
-
+        query_create_tables.add(FilmData.CREATE_TABE_QUERY);
 	}
 	
 
@@ -79,6 +80,8 @@ public class Databases extends SQLiteOpenHelper  {
 	 */
 	private void loadTableNames() {
 		tables.add(QuoteImage.TABLE_NAME);
+        tables.add(QuoteText.TABLE_NAME);
+        tables.add(FilmData.TABLE_NAME);
 
 	}
 

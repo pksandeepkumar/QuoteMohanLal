@@ -8,6 +8,7 @@ import com.texus.mohanlalquotes.AppConstance;
 
 import java.util.ArrayList;
 
+import texus.adapter.QuoteTextAdapter;
 import texus.datamodel.QuoteIndex;
 import texus.datamodel.QuoteText;
 import texus.db.Databases;
@@ -19,6 +20,7 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 					implements AppConstance {
     Context context;
     RecyclerView recyclerView;
+    QuoteTextAdapter adapter;
     int version = 0;
 
     public LoadQuoteTextTask(Context context, RecyclerView recyclerView) {
@@ -38,15 +40,16 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
             String responseData = "";
             String responseIndex = "";
             if(version == 0) {
-				responseIndex = Utility.readFromAssets("quote1.xml",context);
-				parseAndInsertdata(responseIndex);
+                responseData = Utility.readFromAssets("quote1.xml",context);
+
+                parseAndInsertdata(responseData);
             } else {
 				responseIndex = NetworkService.Get(INDEX_URL_QUOTE);
 				ArrayList<QuoteIndex> indexes = QuoteIndex.parse(responseData);
 				for(QuoteIndex index: indexes) {
 					if(index.version <= version) continue;
 					responseData = NetworkService.Get(BASE_URL + index.filename);
-					ArrayList<>
+                    parseAndInsertdata(responseData);
 				}
                 
             }
@@ -62,8 +65,10 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 		//Populate list
 		Databases db = new Databases(context);
 		ArrayList<QuoteText> quoteTexts = QuoteText.getAllObject(db);
-
-
+        recyclerView.setHasFixedSize(false);
+        // specify an adapter (see also next example)
+        adapter = new QuoteTextAdapter(context, quoteTexts);
+        recyclerView.setAdapter(adapter);
 		db.close();
 	}
 
@@ -74,6 +79,7 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 			QuoteText.inseartOrUpdateOperation(db, quoteText);
 		}
 		db.close();
+        publishProgress();
 	}
 
 	@Override
