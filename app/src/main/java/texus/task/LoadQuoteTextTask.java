@@ -41,7 +41,7 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
             String responseIndex = "";
             if(version == 0) {
                 responseData = Utility.readFromAssets("quote1.xml",context);
-
+                version = 1;
                 parseAndInsertdata(responseData);
             } else {
 				responseIndex = NetworkService.Get(INDEX_URL_QUOTE);
@@ -79,7 +79,9 @@ public class LoadQuoteTextTask extends  AsyncTask<Void, Void, String>
 			QuoteText.inseartOrUpdateOperation(db, quoteText);
 		}
 		db.close();
+        SavedPreferance.setVersionQuote(context, version);
         publishProgress();
+
 	}
 
 	@Override
